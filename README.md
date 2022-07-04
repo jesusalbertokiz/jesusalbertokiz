@@ -10,6 +10,7 @@ I've been learning code since 2021, I started with HTML/CSS and JavaScript, than
 * 🧠 I'm learning MERN STACK
 * 🤝 I'm open to collaborating on JavaScript projects
 * 🐍 In my spare time I dedicate myself to learning AI with Python
+* 💙 You can see my latest post [here.](https://blog.jmxs.space/articles/01-mi-primer-proyecto/)
 * ⚡ I'm a dancer and I like music
 
 ### You can find me 🌐:
