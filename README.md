@@ -12,7 +12,7 @@ I've been learning code since 2021, I started with HTML/CSS and JavaScript, than
 * 🌍  I'm based in Venezuela
 * 🖥️  See my portfolio at [My Web Site](http://blog.jmxs.space)
 * ✉️  You can contact me at [inversionesjmxs@gmail.com](mailto:inversionesjmxs@gmail.com)
-* 🐍 I'm currently learning a bit about AI with Python
 * 🧠 I'm learning MERN STACK
 * 🤝 I'm open to collaborating on JavaScript projects
+* 🐍 In my spare time I dedicate myself to learning AI with Python
 * ⚡ I'm a dancer and I like music
